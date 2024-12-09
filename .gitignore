@@ -1,5 +1,5 @@
 /.venv/
 files
 bonus
-e1.py
+bonus/e1.py
 .idea
