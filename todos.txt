@@ -1,3 +1,5 @@
 pay fees
 cook
-buy grocery
+read
+shower
+meeting
