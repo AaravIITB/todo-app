@@ -1,9 +1,3 @@
-clean
+pay fees
+cook
 buy grocery
-read
-walk
-Master python!
-Code
-Cook
-Meeting at 4
-Give Anvi 20Rs
